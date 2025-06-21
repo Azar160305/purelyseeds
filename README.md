@@ -577,6 +577,6 @@ Copyright &copy; maadi thootam sachu 2024 <br> Made with &#10084;&#65039; By aka
 </div>
 </div>
 <footer id="site-info">
-Copyright &copy; maadithottam sachu 2024 <br> Made with &#10084;&#65039; By akash.b
+Copyright &copy; maadithottam sachu 2024 <br> Made with &#10084;&#65039; By akash.b azar.N
 </footer>
 </body>
